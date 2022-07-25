@@ -172,7 +172,7 @@ li a{
 }
 
 .content-s:nth-child(1) {
-  background-image: url(/img/uni.jpeg);
+  background-image: url(https://github.com/X21014/portforio/blob/main/img/uni.jpeg?raw=true);
   background-size: cover;
 }
 .content-s:nth-child(2) {
