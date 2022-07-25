@@ -185,7 +185,7 @@ li a{
 }
 
 .content-w:nth-child(1) {
-  background-image: url(/img/r1.png);
+  background-image: url(https://github.com/X21014/portforio/blob/main/img/r1.png?raw=true);
   background-size: cover;
 }
 .content-w:nth-child(2) {
